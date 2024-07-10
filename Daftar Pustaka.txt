@@ -1,0 +1,15 @@
+- Forecasting Energy Consumption of Turkey by Arima Model 
+- Comparison of China's primary energy consumption forecasting by
+using ARIMA (the autoregressive integrated moving average) model
+and GM(1,1) http://dx.doi.org/10.1016/j.energy.2016.02.001
+- The Energy Consumption Forecasting in China Based on ARIMA Model https://www.researchgate.net/publication/301369875_The_Energy_Consumption_Forecasting_in_China_Based_on_ARIMA_Model
+- Model for Predicting Electrical Energy Consumption
+Using ARIMA Method https://www.atlantis-press.com/article/125963779.pdf
+
+
+Introduction
+- Kondisi ideal
+- Kondisi actual
+- Masalah
+- Solusi
+- Harapan
